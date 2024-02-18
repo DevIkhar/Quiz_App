@@ -1,0 +1,13 @@
+
+body{
+  background: linear-gradient(to right, #7f9cf5, #a78bfa, #f687b3)
+}
+.quiz-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: white;
+ 
+}
